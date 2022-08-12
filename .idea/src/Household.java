@@ -1,0 +1,2 @@
+public class Household {
+}
