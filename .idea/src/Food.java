@@ -1,3 +1,4 @@
+
 public class Food {
     private String name;
     private double price;
@@ -7,19 +8,4 @@ public class Food {
         this.price = price;
     }
 
-    public String getName() {
-        return name;
-    }
-
-    public double getPrice() {
-        return price;
-    }
-
-    @Override
-    public String toString() {
-        return "Food{" +
-                "name='" + name + '\'' +
-                ", price=" + price +
-                '}';
-    }
 }
